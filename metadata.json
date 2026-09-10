@@ -1,0 +1,8 @@
+{
+  "name": "Cyber Strike: Neon Overload v3.0",
+  "description": "Cyberpunk sci-fi space shooter with multi-sector progression across 5 sectors, tactical enemy & boss intel codex, 3D interactive ship preview & weapon test firing in Hangar Lab, and customizable PC/mobile controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
